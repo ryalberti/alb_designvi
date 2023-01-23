@@ -1,6 +1,7 @@
 # alb_designvi
 2023S EE322-A
 
+via [^1]
 
 # big header
 ## smaller header
@@ -27,18 +28,13 @@ code
 + here 
 
 1. also
-  - nested 
+   - sub bullet
 2. ordered
 3. list 
 
 - [x] checked
 - [ ] unchecked
 
-<!-- secret test --> 
+<!-- secret text --> 
 
-<!-- 
-'''code
-quotes
-markdown
-'''
--->
+[^1]: this link [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
